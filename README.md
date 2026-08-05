@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEbd1i-mPr4zw/profile-displaybackgroundimage-shrink_350_1400/B4DZhWYH6mHYAY-/0/1753795822944?e=1787788800&v=beta&t=FEEUBOF60WNMnbXqM1e5gahVdSpSbWHrJcjEGJB1B-U)
 
 <div align="center">
-  <h1>I will achieve what I can dream of!</br>Ready or Not</h1>
+  <h1>Hack is My Life</br>I will achieve what I can dream of!</br>Ready or Not</h1>
   <h3>Cyber Security Analyst & Systems Developer</h3>
   
   <p>
