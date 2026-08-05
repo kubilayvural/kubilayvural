@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Merhaba, ben Kubilay Vural</h1>
+  <h1>Welcome to Kubilay's mind.</h1>
   <h3>Cyber Security Analyst & Systems Developer</h3>
   
   <p>
@@ -39,21 +39,6 @@ Aşağıda geliştirdiğim ana projeleri ve araçları bulabilirsin:
 Teknik çalışmalarım ve araştırma notlarım:
 
 * *Yakında teknik makalelerim buraya eklenecektir.*
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kubilayvural&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubilayvural&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubilayvural&theme=radical&hide_border=true" alt="Streak" />
-</div>
 
 ---
 
